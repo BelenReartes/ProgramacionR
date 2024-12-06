@@ -8,7 +8,7 @@ format:
 
 ## Quarto
 
-hugo <https://quarto.org>.
+hugo hola <https://quarto.org>.
 
 ## Running Code
 
