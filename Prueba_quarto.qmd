@@ -8,7 +8,10 @@ format:
 
 ## Quarto
 
-hugo together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+
+hugo chau hola <https://quarto.org>.
+
 
 ## Running Code
 
